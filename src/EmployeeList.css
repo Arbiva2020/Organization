@@ -1,0 +1,12 @@
+#listDiv{
+    min-height: 200px;
+    margin-left: 400px;
+    /* display: flex;
+    justify-content: center; */
+}
+
+#tableList{
+table-layout: fixed;
+width: 110%;
+height: 100px; 
+}
